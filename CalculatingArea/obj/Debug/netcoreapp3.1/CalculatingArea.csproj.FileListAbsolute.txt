@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\Task\CalculatingArea\bin\Debug\netcoreapp3.1\CalculatingArea.deps.json
+C:\Users\ASUS\Desktop\Task\CalculatingArea\bin\Debug\netcoreapp3.1\CalculatingArea.dll
+C:\Users\ASUS\Desktop\Task\CalculatingArea\bin\Debug\netcoreapp3.1\CalculatingArea.pdb
+C:\Users\ASUS\Desktop\Task\CalculatingArea\obj\Debug\netcoreapp3.1\CalculatingArea.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Task\CalculatingArea\obj\Debug\netcoreapp3.1\CalculatingArea.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Task\CalculatingArea\obj\Debug\netcoreapp3.1\CalculatingArea.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Task\CalculatingArea\obj\Debug\netcoreapp3.1\CalculatingArea.dll
+C:\Users\ASUS\Desktop\Task\CalculatingArea\obj\Debug\netcoreapp3.1\CalculatingArea.pdb
