@@ -1,0 +1,9 @@
+--Products  таблица с продуктами
+--Categories таблица категорий
+--Product_in_Categories таблица сопоставления продуктов и их категорий
+SELECT Products .Name, Categories.Name
+FROM Products
+LEFT JOIN Product_in_Categories
+	ON Products .Id = Product_in_Categories.Prod
+LEFT JOIN Categories
+	ON Product_in_Categories.Category = Categories.Id;
